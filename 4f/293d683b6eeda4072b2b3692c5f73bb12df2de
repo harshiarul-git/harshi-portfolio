@@ -1,0 +1,19 @@
+.gitignore
+  s_229499e16773aa::t_5b26c9f0446d8f 1-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4f293d683b6eeda4072b2b3692c5f73bb12df2de",
+  "prompts": {},
+  "sessions": {
+    "s_229499e16773aa": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "a4fa06a0-3d04-4797-a723-e1565ff8db24",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Arul Nataraj <arulnat@cisco.com>"
+    }
+  }
+}
