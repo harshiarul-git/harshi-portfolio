@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+previews/
+*.txt
+*.pdf
+!HarshithaArul2026.pdf
+pics/*
+!pics/IMG_0603.jpeg
+!pics/IMG_6732.jpeg
+!pics/IMG_8486.jpeg
